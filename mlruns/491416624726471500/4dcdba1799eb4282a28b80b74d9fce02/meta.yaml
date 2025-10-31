@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/491416624726471500/4dcdba1799eb4282a28b80b74d9fce02/artifacts
+end_time: 1761886083361
+entry_point_name: ''
+experiment_id: '491416624726471500'
+lifecycle_stage: active
+run_id: 4dcdba1799eb4282a28b80b74d9fce02
+run_name: angry-snipe-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761886083151
+status: 3
+tags: []
+user_id: Seu Computador
