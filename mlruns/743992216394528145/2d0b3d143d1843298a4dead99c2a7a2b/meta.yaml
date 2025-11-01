@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/743992216394528145/2d0b3d143d1843298a4dead99c2a7a2b/artifacts
+deleted_time: 1762006610715
+end_time: 1762006391563
+entry_point_name: ''
+experiment_id: '743992216394528145'
+lifecycle_stage: deleted
+run_id: 2d0b3d143d1843298a4dead99c2a7a2b
+run_name: bemused-stoat-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762006391000
+status: 4
+tags: []
+user_id: Seu Computador

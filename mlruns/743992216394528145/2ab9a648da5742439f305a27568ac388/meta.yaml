@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/743992216394528145/2ab9a648da5742439f305a27568ac388/artifacts
+deleted_time: 1762006610709
+end_time: 1762006463933
+entry_point_name: ''
+experiment_id: '743992216394528145'
+lifecycle_stage: deleted
+run_id: 2ab9a648da5742439f305a27568ac388
+run_name: rambunctious-sow-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762006463533
+status: 4
+tags: []
+user_id: Seu Computador
